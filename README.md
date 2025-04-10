@@ -1,4 +1,4 @@
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30"/> &nbsp;&nbsp;**About Me**
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user.svg" width="25" height="25"> &nbsp;&nbsp;**About Me**
 
 I'm a data scientist with a background in scientific research, passionate about transforming complex data into meaningful, actionable insights. Before transitioning into the private sector, I researched neuroscience and taught signal analysis, data visualization, and data science best practices at the University of Cambridge. I continue to advocate for reproducibility and maintainability in data science by writing technical articles and sharing insights on platforms like Medium.
 
@@ -8,7 +8,7 @@ In my current role, I develop and apply advanced machine learning models to help
 <br>
 <br>
 <br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">&nbsp;&nbsp;<b> Skills</b>
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="30" height="30">&nbsp;&nbsp;**Skills**
 
 <p align="left">
   <!-- Programming Languages -->
@@ -54,8 +54,9 @@ In my current role, I develop and apply advanced machine learning models to help
   <br>
   <br>
   <br>
+  
 
-  ## <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/medium.svg" /> &nbsp;&nbsp; <b> Latest Blog Posts</b>
+  ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" width="25" height="25"> &nbsp;&nbsp; **Latest Blog Posts**
   <br>
   
   <!-- BLOG_START -->
