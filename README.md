@@ -1,4 +1,4 @@
-## Hi there 👋
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30"/> **About Me**
 
 <!--
 **ale-tom/ale-tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
