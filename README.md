@@ -49,5 +49,11 @@ In my current role, I develop and apply advanced machine learning models to help
   <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=poetry&logoColor=white" /></a>
   <a href="https://docs.pytest.org/en/6.2.x/"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" /></a>
   <a href="https://flake8.pycqa.org/en/latest/"><img src="https://img.shields.io/badge/flake8-0A9EDC?style=flat&logo=python&logoColor=white" /></a>
-
   <br>
+  <br>
+
+  ## <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/medium.svg" />  <b> Latest Blog Posts</b>
+  <br>
+  <!-- BLOG_START -->
+  
+  <!-- BLOG_END -->
