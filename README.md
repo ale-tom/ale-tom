@@ -55,5 +55,8 @@ In my current role, I develop and apply advanced machine learning models to help
   ## <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/medium.svg" />  <b> Latest Blog Posts</b>
   <br>
   <!-- BLOG_START -->
-  
-  <!-- BLOG_END -->
+- [Robust Statistics for Data Scientists Part 2: Resilient Measures of Relationships Between Variables](https://medium.com/data-science/robust-statistics-for-data-scientists-part-2-resilient-measures-of-relationships-between-variables-a59b37a6907f?source=rss-4cb5c2b60ac8------2)
+- [Robust Statistics for Data Scientists Part 1: Resilient Measures of Central Tendency and…](https://medium.com/data-science/robust-statistics-for-data-scientists-part-1-resilient-measures-of-central-tendency-and-67e5a60b8bf1?source=rss-4cb5c2b60ac8------2)
+- [Enhancing Data Science Workflows: Mastering Version Control for Jupyter Notebooks](https://medium.com/data-science/enhancing-data-science-workflows-mastering-version-control-for-jupyter-notebooks-b03c839e25ec?source=rss-4cb5c2b60ac8------2)
+- [Cultivating Data Integrity in Data Science with Pandera](https://medium.com/data-science/cultivating-data-integrity-in-data-science-with-pandera-2289608626cc?source=rss-4cb5c2b60ac8------2)
+<!-- BLOG_END -->
