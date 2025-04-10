@@ -5,7 +5,9 @@ I'm a data scientist with a background in scientific research, passionate about 
 I thrive in multidisciplinary environments, using machine learning, statistical modeling (both frequentist and Bayesian), and big data tools to tackle real-world challenges. With a strong foundation in computational methods, empirical experimentation, and project management, I bring a balance of creativity, precision, and practical thinking to every project.
 
 In my current role, I develop and apply advanced machine learning models to help identify biomarkers in oncology.
-
+<br>
+<br>
+<br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">&nbsp;&nbsp;<b> Skills</b>
 
 <p align="left">
@@ -49,6 +51,7 @@ In my current role, I develop and apply advanced machine learning models to help
   <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=poetry&logoColor=white" /></a>
   <a href="https://docs.pytest.org/en/6.2.x/"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" /></a>
   <a href="https://flake8.pycqa.org/en/latest/"><img src="https://img.shields.io/badge/flake8-0A9EDC?style=flat&logo=python&logoColor=white" /></a>
+  <br>
   <br>
   <br>
 
